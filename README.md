@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Manush Hareshkumar Patel`
-- **CCID:** `1803670`
+- **CCID:** `manush`
 
 ## References and Resources
 
@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Dhavanil Patel`    | `dhavanil` |
 | `<Add more>` | `<CCID>`  |
